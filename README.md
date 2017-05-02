@@ -5,7 +5,7 @@ The structure of the files will be:
 
 /*
 
-link to the problem: 
+link to the problem
 
 */
 
